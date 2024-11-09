@@ -1,1 +1,1 @@
-# KeyBinds \n for model m 122-key keyboard
+# KeyBinds for model m 122-key keyboard
